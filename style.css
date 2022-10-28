@@ -5,11 +5,11 @@ background-color:rgb(245, 151, 167) ;
  h1{
 color: rgba(248, 97, 97, 0.048);
 font-family:Arial, Georgia, 'Times New Roman', Times, serif, sans-serif ;
-background:bleck pink ;
+background:black ;
 }
 
 p{
-color:red ;
+color:rgb(55, 0, 255) ;
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 font-size:20px ;
 background: blueviolet;
