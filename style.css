@@ -3,14 +3,14 @@ background-color purple ;
 }
 
  h1{
-color: rgba(7, 17, 26, 0.048);
+color: rgba(110, 7, 151, 0.932);
 font-family:Arial, Georgia, 'Times New Roman', Times, serif, sans-serif ;
-background:rgb(31, 9, 9) ;
+background:rgb(145, 3, 3) ;
 }
 
 p{
 color:rgb(21, 13, 49) ;
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 font-size:20px ;
-background: rgb(45, 101, 206);
+background: rgb(18, 33, 252);
 }
